@@ -20,7 +20,7 @@ Gracias a este libro, recibió un premio que era muy importante en Brasil. Ocho 
 
 [enlace en línea](https://www.marca.com/)
 
-![Descripción de la imagen](images.jpeg)
+![Descripción de la imagen](/home/iker/Escritorio/markdown/images.jpeg)
 
 
 
