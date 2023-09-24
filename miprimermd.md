@@ -20,6 +20,8 @@ Gracias a este libro, recibió un premio que era muy importante en Brasil. Ocho 
 
 [enlace en línea](https://www.marca.com/)
 
+[enlace a otro fichero] (otrofichero.md)
+
 ![Descripción de la imagen](images.jpeg)
 
 
