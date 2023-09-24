@@ -23,6 +23,13 @@ Gracias a este libro, recibió un premio que era muy importante en Brasil. Ocho 
 ![Descripción de la imagen](images.jpeg)
 
 
+| Column1 | Column 2 | Column3|
+|---------|----------|--------|
+|Row 1    | Cell 2   | Cell 3 |
+|Row 2    | Cell 5   | Cell 6 |
+|Row 3    | Cell 8   | Cell 9 |
+
+
 
 
 
